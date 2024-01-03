@@ -26,3 +26,5 @@ Understanding the theoretical aspects of stock price prediction is crucial. Dive
 ## 2. Tools for RNN used in Trading Python
 When it comes to Recurrent Neural Networks (RNNs) in trading, Python offers a powerful ecosystem. We leverage popular libraries like TensorFlow and PyTorch for implementing RNNs in our project. These tools provide a robust framework for building and training sophisticated neural networks tailored for stock price prediction. Additionally, we explore specialized financial libraries such as Pandas and NumPy for efficient data manipulation and analysis. The documentation within our project will guide you through the implementation details using these tools
 
+# Final
+ for testing hand on expereince you can go through the python files and in submission you should write explaination about the code provided above and it will be better if you try to improve the results 
